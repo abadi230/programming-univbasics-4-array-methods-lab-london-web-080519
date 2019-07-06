@@ -19,5 +19,5 @@ def using_last(array)
 end
 
 def using_size(array)
-  array.size //array.length, array.cont 
+  array.size #array.length, array.count 
 end
